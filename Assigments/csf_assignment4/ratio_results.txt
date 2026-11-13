@@ -1,0 +1,10 @@
+Results from 1000 trials of 50 random requests:
+------------------------------------------------------------
+Greedy Rule               | Average Ratio   | Worst Ratio    
+------------------------------------------------------------
+Earliest Finish           | 0.8502          | 0.6206
+Highest Fee               | 0.9239          | 0.6364
+------------------------------------------------------------
+
+Note: A ratio of 1.0000 means the greedy rule found the optimal revenue.
+A ratio of 0.8000 means the greedy rule only earned 80% of the optimal revenue.
