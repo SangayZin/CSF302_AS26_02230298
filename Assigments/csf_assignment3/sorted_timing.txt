@@ -1,0 +1,1 @@
+sorted() on 100,000 random: 0.0137s
